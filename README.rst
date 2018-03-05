@@ -4,7 +4,7 @@ Sanji Framework SDK (Python)
     :target: https://travis-ci.org/Sanji-IO/sanji
     :alt: Build Status
 
-.. image:: https://pypip.in/version/sanji/badge.svg
+.. image:: https://img.shields.io/pypi/v/sanji.svg
     :target: https://pypi.python.org/pypi/sanji/
     :alt: Latest Version
 
